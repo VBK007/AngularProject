@@ -1,0 +1,14 @@
+.name{
+    color: black;
+}
+.helloWorld{
+    height: 90px;
+    text-align: center;
+    align-content: center;
+    color: white;
+    background-color: black;
+}
+.menu{
+    float: left;
+    width: 100%;
+}

@@ -6,5 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'MyFirst Angular';
+  title = 'Hello World....!';
+  name: any;
+  lastName: any;
+
+
+  onSubmitClick() {
+    this.name;
+    this.lastName;
+    console.log(this.name);
+  }
 }
